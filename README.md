@@ -18,9 +18,9 @@
 
 |  pass_add.php |
 | ------------ |
-| ** pass_del.php** |
+| **pass_del.php** |
 |  **pass_set.php** |
-|  ** pass_login.php**|
+|  **pass_login.php**|
 |  **pass_list.php** |
 |  **pass_out.php** |
 
